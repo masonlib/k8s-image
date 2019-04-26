@@ -1,0 +1,2 @@
+#需要构建的镜像名和版本
+FROM docker.elastic.co/kibana/kibana-oss:6.7.0
