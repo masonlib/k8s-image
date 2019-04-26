@@ -1,0 +1,2 @@
+#需要构建的镜像名和版本号
+FROM gcr.io/fluentd-elasticsearch/fluentd:v2.5.1
